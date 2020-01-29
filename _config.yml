@@ -20,7 +20,7 @@ description: "I'm a software engineer from New York City."
 url: "https://somemoosery.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'kleinwinder'
 github_username: 'somemoosery'
-# medium_username: 'blog.jamigibbs.com'
+linkedin_username: 'carterklein13'
 
 # Build settings
 markdown: kramdown
