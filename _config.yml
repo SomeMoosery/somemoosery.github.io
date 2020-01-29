@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hello. I'm Carter Klein."
+title: ""Hello. I'm Carter Klein."""
 email: 'carterklein13@gmail.com'
-description: "I'm a software engineer from New York City."
+description: "// I'm a software engineer from New York City."
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://somemoosery.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'kleinwinder'
