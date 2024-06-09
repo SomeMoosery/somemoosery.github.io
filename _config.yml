@@ -21,8 +21,7 @@
 title: Carter Klein
 email: carterklein13@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm currently a senior software engineer at Brigit, living in Brooklyn.
-  Previously, I was a founding engineer at cmorq, and before that an engineer at Capital One.
+  Software engineer deeply focused on consumer finance, why it sucks, and (eventually) how to make it suck less.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kleinwinder

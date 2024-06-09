@@ -4,8 +4,12 @@ title:  "Hello World"
 date:   2024-05-05 22:08:56 -0400
 categories: engineering
 ---
-I will turn this into my first post once I have some more time...
-<!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello, world! I'm going to use this as a central repository for everything I've been thinking and doing behind the scenes. 
+It's mostly nonsense, but I figured it would be better to pull any private thoughts into the open, to refer back to and/or
+show some continuity if the time comes.
+
+{% comment %}
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
 
@@ -27,4 +31,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/ -->
+[jekyll-talk]: https://talk.jekyllrb.com/
+{% endcomment %}
